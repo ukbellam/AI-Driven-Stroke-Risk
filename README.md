@@ -24,6 +24,8 @@ Challenges Faced
     •    Imbalanced dataset – solved using SMOTE
     •    Model tuning – required cross-validation and careful preprocessing
     •    Data quality – needed to handle missing values and encode categories
+    YOUTUBE VIDEO LINK:
+    https://youtu.be/qFyiLNnUNqI
  
 Outcomes Achieved
     •    Developed a reliable and interpretable model
