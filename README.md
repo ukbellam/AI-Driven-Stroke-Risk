@@ -24,11 +24,11 @@ Challenges Faced
     •    Imbalanced dataset – solved using SMOTE
     •    Model tuning – required cross-validation and careful preprocessing
     •    Data quality – needed to handle missing values and encode categories
-    YOUTUBE VIDEO LINK:
-    https://youtu.be/qFyiLNnUNqI
  
 Outcomes Achieved
     •    Developed a reliable and interpretable model
     •    Improved real-world usability with calibrated probabilities
     •    Aligned results with established research benchmarks
     •    Created a tool that could be integrated into clinical decision support systems in the future
+YOUTUBE VIDEO LINK:
+    https://youtu.be/qFyiLNnUNqI
